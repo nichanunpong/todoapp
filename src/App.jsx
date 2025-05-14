@@ -5,9 +5,8 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      asdf
-      {/* <Header />
-      <Todo /> */}
+      <Header />
+      <Todo />
     </div>
   );
 }
